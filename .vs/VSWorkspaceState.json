@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\demo",
+    "\\demo\\a2",
+    "\\demo\\a3",
+    "\\k8s",
+    "\\k8s\\kind",
+    "\\k8s\\manifests"
+  ],
+  "SelectedNode": "\\demo\\a3\\README.md",
+  "PreviewInSolutionExplorer": false
+}
